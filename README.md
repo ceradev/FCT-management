@@ -43,9 +43,3 @@ Aplicación para la Gestión de Empresas y Elecciones para la Formación en Cent
 ## Interacción con la Base de Datos:
 - La información de empresas y elecciones se almacena en la tabla "companies".
 - Campos relevantes: name, url, mode, description.
-
-**Nota para GitHub:**
-- La estructura del código y el manejo de la base de datos deben seguir las mejores prácticas.
-- Se debe proporcionar documentación detallada sobre la configuración, instalación y uso de la aplicación.
-- Incluir ejemplos de código para clarificar la implementación.
-- Se recomienda utilizar comentarios en el código para explicar secciones clave.
